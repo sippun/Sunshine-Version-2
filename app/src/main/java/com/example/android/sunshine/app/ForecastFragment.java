@@ -88,7 +88,7 @@ public class ForecastFragment extends Fragment {
                 int duration = Toast.LENGTH_SHORT;
 
                 Toast toast = Toast.makeText(getActivity(), text, duration);
-                toast.show();   
+                toast.show();
             }
         });
 
